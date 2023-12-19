@@ -1,4 +1,5 @@
 ﻿
+using Api202.Services.Interface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -9,17 +10,20 @@ namespace Api202.Controllers
     [ApiController]
     public class CategoriesController : ControllerBase
     {
-        private readonly IRepository _repository;
+        private readonly ICategoryRepository _repository;
+        private readonly ICategoryService _service;
 
-        public CategoriesController(IRepository repository)
-        {
+        public CategoriesController(ICategoryRepository repository,ICategoryService service)
+        {           
             _repository = repository;
+            _service = service;
         }
 
         [HttpGet]
         public async Task<IActionResult> Get(int page=1,int take=3)
-        {          
-            return Ok(await _repository.GetAll());
+        {
+            //return Ok(await _repository.GetAll(orderExpression:c=>c.Name,skip:(page-1)*take,take:take);
+            return Ok(await _service.GetAllAsync(page,take));
         }
 
         [HttpGet("{id}")]
@@ -27,28 +31,14 @@ namespace Api202.Controllers
         public async Task<IActionResult> Get(int id)
         {
             if (id <= 0) return StatusCode(StatusCodes.Status400BadRequest);
-            //return BadRequest();
-
-            Category existed =await _repository.GetByIdAsync(id);
-
-            if (existed != null) return StatusCode(StatusCodes.Status404NotFound);
-            //return NotFound();
-
-            return StatusCode(StatusCodes.Status200OK, existed);
-            //return Ok(existed);
+            return StatusCode(StatusCodes.Status200OK, await _service.GetAsync(id));
         }
 
         [HttpPost]
         public async Task<IActionResult> Create([FromForm]CreateCatgoryDto categoryDto)
         {
-            Category category = new Category
-            {
-                Name = categoryDto.Name 
-            };
-            await _repository.AddAsync(category);
-            await _repository.SaveChangeAsync();
-
-            return StatusCode(StatusCodes.Status201Created,category); 
+            await _service.Create(categoryDto);
+            return StatusCode(StatusCodes.Status201Created); 
         }
         [HttpPut("{id}")]
         public async Task<IActionResult> Update(int id,string name)

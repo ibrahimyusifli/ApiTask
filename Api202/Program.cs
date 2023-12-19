@@ -1,5 +1,7 @@
 using Api202.DAL;
 using Api202.Repositories.Implementations;
+using Api202.Services.Implementations;
+using Api202.Services.Interface;
 using Microsoft.EntityFrameworkCore;
 
 namespace Api202
@@ -16,7 +18,8 @@ namespace Api202
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
             });
 
-            builder.Services.AddScoped<IRepository, Repository>();
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository > ();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
@@ -25,7 +28,7 @@ namespace Api202
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
+            if (app.Environment.IsDevelopment())    
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();

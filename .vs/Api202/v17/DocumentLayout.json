@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|solutionrelative:api202\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4BFC061-166A-4B69-A9B9-AC982B35A7D5}|Api202\\Api202.csproj|c:\\users\\sheki komp\\desktop\\taskab202ibrahim\\api202\\api202\\dtos\\createcatgorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,46 +78,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Dtos\\GetCategoryDto.cs",
+              "RelativeDocumentMoniker": "Api202\\Dtos\\GetCategoryDto.cs",
+              "ToolTip": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Dtos\\GetCategoryDto.cs",
+              "RelativeToolTip": "Api202\\Dtos\\GetCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T05:55:02.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Api202\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Api202\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAnwBIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T05:50:52.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Services\\Interface\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Api202\\Services\\Interface\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Services\\Interface\\ICategoryService.cs",
+              "RelativeToolTip": "Api202\\Services\\Interface\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T05:50:16.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Api202\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "Api202\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T04:45:58.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Api202\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Api202\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T04:44:47.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Repositories\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "Api202\\Repositories\\Implementations\\Repository.cs",
               "ToolTip": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Repositories\\Implementations\\Repository.cs",
               "RelativeToolTip": "Api202\\Repositories\\Implementations\\Repository.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowAcAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-15T07:09:00.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Api202\\Repositories\\Interfaces\\IRepository.cs",
               "ToolTip": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "Api202\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-15T07:04:51.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Api202\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\GlobalUsings.cs",
-              "RelativeToolTip": "Api202\\GlobalUsings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-15T06:43:29.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "CreateCatgoryDto.cs",
               "DocumentMoniker": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Dtos\\CreateCatgoryDto.cs",
               "RelativeDocumentMoniker": "Api202\\Dtos\\CreateCatgoryDto.cs",
@@ -109,8 +177,7 @@
               "RelativeToolTip": "Api202\\Dtos\\CreateCatgoryDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-15T06:39:20.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-15T06:39:20.995Z"
             },
             {
               "$type": "Document",
@@ -120,20 +187,20 @@
               "RelativeDocumentMoniker": "Api202\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Api202\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwD8AAAAoAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAnwCcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-14T06:12:24.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Api202\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Entities\\Category.cs",
               "RelativeToolTip": "Api202\\Entities\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-14T05:51:02.96Z",
               "EditorCaption": ""
@@ -146,7 +213,7 @@
               "RelativeDocumentMoniker": "Api202\\Program.cs",
               "ToolTip": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\Api202\\Api202\\Program.cs",
               "RelativeToolTip": "Api202\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAABCAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBUAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-14T05:46:47.272Z",
               "EditorCaption": ""
